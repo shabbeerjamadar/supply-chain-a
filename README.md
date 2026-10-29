@@ -1,4 +1,4 @@
-Supply Chain Procurement & Logistics Analytics
+# Supply Chain Procurement & Logistics Analytics
 
 📊 Project Overview
 This project features an end-to-end Power BI report and data model built for a logistics-sector client. It unifies scattered operational datasets—such as purchase orders, supplier assessments, carrier metrics, warehouse logs, and monthly financial targets—into a single, decision-ready analytics dashboard
