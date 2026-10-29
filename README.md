@@ -5,7 +5,7 @@ This project features an end-to-end Power BI report and data model built for a l
 
 ---
 
-🛠️ Data Architecture & Schema
+## 🛠️ Data Architecture & Schema
 - **Schema Type:** Galaxy Schema (Multi-Fact Star Schema)
 - **Primary Fact Tables:**
   - `Fact_procurement`: Captures transactional PO line data, actual spend, unit prices, and freight costs.
@@ -14,7 +14,7 @@ This project features an end-to-end Power BI report and data model built for a l
 
 ---
 
-📈 Key Dashboard Pages & Objectives
+## 📈 Key Dashboard Pages & Objectives
 
 1. **Page 1: Overview (Executive Summary)**
    - Tracks actual vs. target spend, order volumes, delivery health, supplier risk distribution, and delay root causes
@@ -25,7 +25,7 @@ This project features an end-to-end Power BI report and data model built for a l
 
 ---
 
-🔑 Core KPIs Defined
+## 🔑 Core KPIs Defined
 - **Actual Spend:** `Actual Unit Price × Ordered Qty`
 - **Spend Variance:** `Target Spend − Actual Spend`
 - **PPV %:** `(Actual Spend − Contract Spend) ÷ Contract Spend`
@@ -34,7 +34,7 @@ This project features an end-to-end Power BI report and data model built for a l
 
 ---
 
-🚀 Repository Structure
+## 🚀 Repository Structure
 
 ├── Data/         Raw or sample datasets (.xlsx / CSV)
 ├── Model/        Power BI report file (.pbix)
