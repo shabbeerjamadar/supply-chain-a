@@ -35,8 +35,8 @@ This project features an end-to-end Power BI report and data model built for a l
 ---
 
 ## 🚀 Repository Structure
-
-├── Data/         Raw or sample datasets (.xlsx / CSV)
-├── Model/        Power BI report file (.pbix)
-├── Docs/         Architecture diagrams and presentations
-└── README.md     Project documentation
+```text
+├── Data/                   # Raw or sample datasets (.xlsx / CSV)
+├── Model/                  # Power BI report file (.pbix)
+├── Docs/                   # Architecture diagrams and presentations
+└── README.md               # Project documentation
